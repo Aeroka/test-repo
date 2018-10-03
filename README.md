@@ -1,1 +1,3 @@
 # test-repo
+
+My name is Erika. I spent many years working in retail operations while going to school for Psychology.  In my past jobs, I was that person who suggested process changes and policy changes based on the data I had access to.  As I was about half way into my masters program for Industrial and Organizational Psychology, it hit me.  I had to add coding/hacking to my skill set to see the full potential of my data analysis abilities.  I knew I didn't want to be an HR manager or some other middle management position.  I want there to be actual tangible benefits and insights from my work.  So, I am building up my skillset as it related to the technical side of data science.
